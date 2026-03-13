@@ -19,7 +19,7 @@ O código é organizado em três partes principais:
 - Interface simples e responsiva.
   
 ## 🔗 Demonstração
-Acesse o projeto [aqui]([https://felipeoliveiracode.github.io/relogio-digital/](https://lucasferreiraprogramador.github.io/Rel-gio-Digital-Interface-em-Tempo-Real-com-JavaScript/).
+Acesse o projeto [aqui]([https://lucasferreiraprogramador.github.io/relogio-digital/](https://lucasferreiraprogramador.github.io/Rel-gio-Digital-Interface-em-Tempo-Real-com-JavaScript/).
 
 ## 📂 Estrutura do Projeto
 
