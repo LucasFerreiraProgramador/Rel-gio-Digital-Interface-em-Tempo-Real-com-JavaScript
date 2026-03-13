@@ -17,6 +17,9 @@ O código é organizado em três partes principais:
 - Mostra a hora atual em formato digital.
 - Atualiza os valores automaticamente a cada segundo.
 - Interface simples e responsiva.
+  
+## 🔗 Demonstração
+Acesse o projeto [aqui]([https://felipeoliveiracode.github.io/relogio-digital/](https://lucasferreiraprogramador.github.io/Rel-gio-Digital-Interface-em-Tempo-Real-com-JavaScript/).
 
 ## 📂 Estrutura do Projeto
 
