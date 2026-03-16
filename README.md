@@ -65,11 +65,10 @@ setInterval(newTime, 1000);
 - **`setInterval`**: Atualiza o relógio a cada segundo.
 
 
-## 👨‍💻 Autor
-Desenvolvido por [Lucas Ferreira](https://www.linkedin.com/in/lucasferreira-dev-front-end/).
+## 👤 Autor
+- [Lucas Ferreira](https://lucas.ferreiradev.com/)
+- [GitHub](https://github.com/LucasFerreiraProgramador)
+- [LinkedIn](https://www.linkedin.com/in/lucasferreira-dev-front-end/)
 
----
-
-Aproveite o projeto e sinta-se à vontade para dar feedbacks e sugerir melhorias!
-
----
+## 📄 Licença
+Este projeto foi desenvolvido para fins de estudo e prática de desenvolvimento Front-End.
